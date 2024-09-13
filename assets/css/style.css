@@ -40,12 +40,15 @@ body {
 
 .site-content {
     margin: 10px;
+    min-height: 85vh;
+    display: flex;
+    justify-content: center;
 }
 
 .footer {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     background: #ec7f94;
     color: white;
 }
