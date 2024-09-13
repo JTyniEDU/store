@@ -64,3 +64,20 @@ body {
     background: #ec7f94;
     color: white;
 }
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 45vw;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 15px;
+}
+
+.product {
+    text-align: center;
+}
