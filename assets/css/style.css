@@ -11,3 +11,7 @@ body {
     user-select: none;
     box-sizing: border-box;
 }
+
+.header {
+    height: 60px;
+}
