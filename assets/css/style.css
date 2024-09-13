@@ -32,8 +32,20 @@ body {
 
 .menu-item {
     text-decoration: none;
+    color: white;
+    font-weight: 800;
+    font-size: 13px;
+    padding-right: 10px;
 }
 
 .site-content {
     margin: 10px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #ec7f94;
+    color: white;
 }
